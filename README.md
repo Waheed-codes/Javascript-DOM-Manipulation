@@ -3,7 +3,7 @@
 This repository contains **5 beginner‑friendly JavaScript DOM manipulation mini projects**. Each project focuses on practicing core JavaScript concepts like **event handling, DOM traversal, dynamic updates, and user interactions**.
 
 ## 🚀 Live Demos Link
-
+ https://waheed-codes.github.io/Javascript-DOM-Manipulation/
 
 Each project is deployed using **GitHub Pages** and can be accessed individually:
 
